@@ -2,6 +2,6 @@
 <https://adventofcode.com/2022>
 ***
 ###### Output Day 1
->XXX: **9999**<br>
->XXX: **9999** <sup>*Bonus</sup>
+>Calories carried by Top 1: **68467**<br>
+>Calories carried by Top 3: **203420** <sup>*Bonus</sup>
 ***
