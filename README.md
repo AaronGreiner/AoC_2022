@@ -9,3 +9,7 @@
 >My Strategy Score: **10404**<br>
 >Elfs Strategy Score: **10334** <sup>*Bonus</sup>
 ***
+###### Output Day 3
+>Sum Common Types: **8243**<br>
+>Sum Common between 3 Elves: **2631** <sup>*Bonus</sup>
+***
