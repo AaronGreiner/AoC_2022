@@ -13,3 +13,7 @@
 >Sum Common Types: **8243**<br>
 >Sum Common between 3 Elves: **2631** <sup>*Bonus</sup>
 ***
+###### Output Day 4
+>Full Intersect: **453**<br>
+>Intersect: **919** <sup>*Bonus</sup>
+***
