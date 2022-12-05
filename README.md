@@ -17,3 +17,7 @@
 >Full Intersect: **453**<br>
 >Intersect: **919** <sup>*Bonus</sup>
 ***
+###### Output Day 5
+>Container on Top of each Stack (CrateMover 9000): **JCMHLVGMG**<br>
+>Container on Top of each Stack (CrateMover 9001): **LVMRWSSPZ** <sup>*Bonus</sup>
+***
