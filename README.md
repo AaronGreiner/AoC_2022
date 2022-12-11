@@ -21,3 +21,7 @@
 >Container on Top of each Stack (CrateMover 9000): **JCMHLVGMG**<br>
 >Container on Top of each Stack (CrateMover 9001): **LVMRWSSPZ** <sup>*Bonus</sup>
 ***
+###### Output Day 6
+>Number of Chars with Marker 4: **1760**<br>
+>Number of Chars with Marker 14: **2974** <sup>*Bonus</sup>
+***
