@@ -25,3 +25,7 @@
 >Number of Chars with Marker 4: **1760**<br>
 >Number of Chars with Marker 14: **2974** <sup>*Bonus</sup>
 ***
+###### Output Day 7
+>Total Size of Directories less than 100000: **1306611**<br>
+>Total Size of the Directory to delete: **13210366** <sup>*Bonus</sup>
+***
