@@ -29,3 +29,7 @@
 >Total Size of Directories less than 100000: **1306611**<br>
 >Total Size of the Directory to delete: **13210366** <sup>*Bonus</sup>
 ***
+###### Output Day 8
+>Visible Trees from outside the Grid: **1794**<br>
+>The highest Scenic Score possible: **199272** <sup>*Bonus</sup>
+***
