@@ -33,3 +33,7 @@
 >Visible Trees from outside the Grid: **1794**<br>
 >The highest Scenic Score possible: **199272** <sup>*Bonus</sup>
 ***
+###### Output Day 9
+>Rope with 2 Knots: **6018**<br>
+>Rope with 10 Knots: **2619** <sup>*Bonus</sup>
+***
