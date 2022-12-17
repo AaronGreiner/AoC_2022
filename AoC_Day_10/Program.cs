@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AoC_Day_10
 {
@@ -20,8 +18,6 @@ namespace AoC_Day_10
         static void Main(string[] args)
         {
             string[] input = File.ReadAllLines(@"../../input.txt");
-
-            int v = 1;
 
             for (int i = 0; i < input.Length; i++)
             {
