@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AoC_Day_11
 {
@@ -24,7 +20,7 @@ namespace AoC_Day_11
         private int test_monkey_true;
         private int test_monkey_false;
 
-        internal Monkey (int num, List<Monkey> monkeys)
+        internal Monkey(int num, List<Monkey> monkeys)
         {
             Number = num;
 
@@ -44,7 +40,7 @@ namespace AoC_Day_11
             {
                 operation_num = int.Parse(operation.Split(' ')[4]);
             }
-            
+
             test_num = int.Parse(test.Split(' ')[2]);
             test_monkey_true = int.Parse(test_true.Split(' ')[3]);
             test_monkey_false = int.Parse(test_false.Split(' ')[3]);
