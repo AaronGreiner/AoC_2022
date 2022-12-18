@@ -49,3 +49,7 @@
 >#....####.#....#..#.#....###...##..####.
 >```
 ***
+###### Output Day 9
+>Monkey Business after 20 Rounds: **110264**<br>
+>Monkey Business after 10000 Rounds (Stressed): **23612457316** <sup>*Bonus</sup>
+***
